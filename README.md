@@ -1,1 +1,2 @@
 # push-regardless
+smartgit tutorial
