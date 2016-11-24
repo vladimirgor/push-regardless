@@ -1,2 +1,3 @@
 print('Show!');
 print('Show one item!');
+print('Show all!');
